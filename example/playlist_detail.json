@@ -1,0 +1,57 @@
+{
+  "code": "0",
+  "msg": "SUCCESS",
+  "rsp": {
+    "code": "000000",
+    "info": "success",
+    "playList": [
+      {
+        "belong": 0,
+        "channel": "1",
+        "collecCount": 0,
+        "contentCount": "25",
+        "createTime": "2019-09-03 16:34:12",
+        "createUserId": "b9a656e9-1349-4655-82f0-6cdc06e06b15",
+        "hotSpot": 0,
+        "image": "http://d.musicapp.migu.cn/ugcdata/playListimg/4a4c6c0c-ba3d-4e90-84b5-01c65917d1eb.jpg",
+        "imageChangeType": "0",
+        "isDefault": 0,
+        "playCount": 0,
+        "playListId": "158003746",
+        "playListName": "日剧日影主题曲| 剧中的音乐总是格外好听",
+        "playListType": "2",
+        "recommend": false,
+        "source": "0",
+        "status": 1,
+        "summary": "日剧是个坑，跳进去就出不来了。剧中的歌曲也超级好听，还可以在歌曲中听到人生的感悟和自我情感的共鸣。\n我曾因为一首歌入坑，或许，也有一首歌能触动你，拉你走进这个温暖与奇特共存的领域。欢迎补充~",
+        "tagLists": [
+          {
+            "inserttime": "20181214010307",
+            "status": 1,
+            "tagDesc": null,
+            "tagName": "日语",
+            "tagPic": null,
+            "tagid": 1000001767
+          },
+          {
+            "inserttime": "20181214010015",
+            "status": 1,
+            "tagDesc": null,
+            "tagName": "电视剧",
+            "tagPic": null,
+            "tagid": 1001076078
+          },
+          {
+            "inserttime": "20181214010407",
+            "status": 1,
+            "tagDesc": null,
+            "tagName": "经典番剧",
+            "tagPic": null,
+            "tagid": 1002600822
+          }
+        ],
+        "updateTime": "2020-08-13 17:14:38"
+      }
+    ]
+  }
+}

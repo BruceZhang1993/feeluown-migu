@@ -9,6 +9,8 @@ PyQt5 = '*'
 qasync = '*'
 requests = '*'
 pydantic = '*'
+fuo-migu = {editable = true, path = "."}
+dbus-python = "*"
 
 [dev-packages]
 pytest = '*'

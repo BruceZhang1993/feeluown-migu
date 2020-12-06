@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "4b931bc87b85bcdeed42f093c7fe847d2640cfbe74f7240c7a2caa70f8f1621e"
+            "sha256": "3505178117b6b181234cd1501e0175be6c167533a55740ec1d90889920cbdadc"
         },
         "pipfile-spec": 6,
         "requires": {},
@@ -28,12 +28,23 @@
             ],
             "version": "==3.0.4"
         },
+        "dbus-python": {
+            "hashes": [
+                "sha256:11238f1d86c995d8aed2e22f04a1e3779f0d70e587caffeab4857f3c662ed5a4"
+            ],
+            "index": "doubanpypi",
+            "version": "==1.2.16"
+        },
         "feeluown": {
             "hashes": [
                 "sha256:61c5edde9b49c4f64410c1f12dc99f2d0420e7ccd6f4cb3d143755b7707756ed"
             ],
             "index": "doubanpypi",
             "version": "==3.6"
+        },
+        "fuo-migu": {
+            "editable": true,
+            "path": "."
         },
         "idna": {
             "hashes": [

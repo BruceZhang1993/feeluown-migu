@@ -5,7 +5,7 @@ from setuptools import find_packages
 setup(
     name='fuo-migu',
     version='0.1.0',
-    packages=find_packages(),
+    packages=find_packages('fuo_migu'),
     url='https://github.com/feeluown/feeluown-migu',
     license='LGPL3',
     author='BruceZhang1993',

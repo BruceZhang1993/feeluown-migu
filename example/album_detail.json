@@ -1,0 +1,30 @@
+{
+  "data": {
+    "albumId": "1108743794",
+    "albumIntro": null,
+    "albumLength": null,
+    "albumName": "Hello",
+    "albumNameFirstLetter": "H",
+    "albumNamePinyin": "HELLO",
+    "albumPicL": "http://218.200.230.40:18089/files/album/2018-01-29/f051938cbc47434faf05a097ee6ba9a0.jpg",
+    "albumPicM": "http://218.200.230.40:18089/files/album/2018-01-29/abe3ab44183543a2939eb39afb615604.jpg",
+    "albumPicS": "http://218.200.230.40:18089/files/album/2018-01-29/d855cc9d1c094fc0bfe13c51ccfb1f78.jpg",
+    "awards": null,
+    "createTime": 1517208639506,
+    "id": 413306,
+    "language": "纯音乐",
+    "localAlbumPicL": "https://mcontent.migu.cn/newlv2/new/album/20180130/1108743794/l_U84ZML5Hqt4hjqyC.jpg",
+    "localAlbumPicM": "https://mcontent.migu.cn/newlv2/new/album/20180130/1108743794/m_T2W26D4md8F38obk.jpg",
+    "localAlbumPicS": "https://mcontent.migu.cn/newlv2/new/album/20180130/1108743794/s_NfDi7uR2C4exwu8b.jpg",
+    "modifyTime": 1517273672512,
+    "productionCompany": null,
+    "publishArea": null,
+    "publishCompany": "Self-Released",
+    "publishDate": "2013-11-23",
+    "salesVolume": null,
+    "singerId": "1004639917",
+    "state": "0",
+    "status": "1",
+    "trackCount": "1"
+  }
+}
