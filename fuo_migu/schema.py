@@ -60,7 +60,8 @@ class SearchSong(BaseSchema):
                    zip(self.artist_ids, self.artist_names)]
         return migu_models.MiguSongModel(identifier=self.copyright_id, title=self.title, artists=artists,
                                          album=migu_models.MiguAlbumModel(identifier=self.album_id,
-                                                                          name=self.album_name))
+                                                                          name=self.album_name)
+                                         if self.album_id is not None else None)
 
 
 class SearchArtist(BaseSchema):
@@ -155,12 +156,24 @@ class SongDetail(BaseSchema):
     singer_id: Optional[List[str]] = Field(alias='singerId')
     singer_name: Optional[List[str]] = Field(alias='singerName')
     song_desc: Optional[str] = Field(alias='songDesc')
+    qq: Optional[dict]
+
+    @property
+    def content_id(self):
+        if self.qq is None:
+            return ''
+        return self.qq.get('productId', '')
 
     def model(self):
         artists = [migu_models.ArtistModel(identifier=id_, name=name) for id_, name in
                    zip(self.singer_id, self.singer_name)]
+        qualities = []
+        if self.has_hq:
+            qualities.append('hq')
+        if self.has_sq:
+            qualities.append('shq')
         return migu_models.MiguSongModel(identifier=self.copyright_id, artists=artists, title=self.song_name,
-                                         url=self.listen_url, mv=None,
+                                         url=self.listen_url, mv=None, qualities=qualities, content_id=self.content_id,
                                          lyric=migu_models.MiguLyricModel(identifier=self.copyright_id,
                                                                           content=self.lyric_lrc,
                                                                           trans_content=self.fanyi_lrc))
@@ -214,6 +227,10 @@ class AlbumDetail(BaseSchema):
     publish_date: Optional[date] = Field(alias='publishDate')
     singer_id: Optional[str] = Field(alias='singerId')
     track_count: Optional[int] = Field(alias='trackCount')
+
+    def model(self):
+        return migu_models.MiguAlbumModel(identifier=self.album_id, name=self.album_name, cover=self.local_album_pic_m,
+                                          desc=self.album_intro or '')
 
 
 class PlaylistTag(BaseSchema):

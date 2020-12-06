@@ -1,8 +1,12 @@
 from typing import Type, Optional, Union
 
 import requests
+import logging
 
 from fuo_migu.util import Singleton
+
+
+logger = logging.getLogger('migu')
 
 
 class MiguException(BaseException):
@@ -22,6 +26,11 @@ class MiguService(metaclass=Singleton):
             'referer': self.REFERER,
             'user-agent': self.UA
         })
+        self.session.hooks = dict(response=self.request_tracing)
+
+    @staticmethod
+    def request_tracing(r: requests.Response, *args, **kwargs):
+        logger.info(f'Request: [{r.request.method}] {r.request.url}')
 
     def search(self, keyword: str, stype: 'SearchType', page: int = 1, page_size: int = 20) \
             -> Union[
@@ -112,10 +121,31 @@ class MiguService(metaclass=Singleton):
                 raise MiguException(f'Error: HTTP {r.status_code}')
             return PlaylistSongsResult.parse_raw(r.content)
 
+    def get_song_media(self, cpid: str, content_id: str, quality: str = 'hq'):
+        uri = 'http://app.pd.nf.migu.cn/MIGUM2.0/v1.0/content/sub/listenSong.do'
+        params = {
+            'toneFlag': 'SQ' if quality == 'shq' else 'HQ',
+            'netType': '00',
+            'userId': '15548614588710179085069',
+            'ua': 'Android_migu',
+            'version': '5.1',
+            'copyrightId': cpid,
+            'contentId': content_id,
+            'resourceType': '2' if quality == 'shq' else 'E',
+            'channel': '0'
+        }
+        with self.session.head(uri, params=params) as r:
+            if r.status_code != 305:
+                raise MiguException(f'Error: HTTP {r.status_code}')
+            url = r.headers.get('location')
+            if url is None:
+                raise MiguException('resource not found')
+            return url
+
 
 from fuo_migu.schema import get_result_by_stype, SongSearchResult, ArtistSearchResult, AlbumSearchResult, \
     PlaylistSearchResult, MvSearchResult, SongDetailResult, ArtistDetailResult, ArtistSongsResult, AlbumDetailResult, \
     PlaylistDetailResult, PlaylistSongsResult, AlbumSongsResult, SearchType
 
 if __name__ == '__main__':
-    print(MiguService().mv_detail('600570YA7ZS'))
+    print(MiguService())

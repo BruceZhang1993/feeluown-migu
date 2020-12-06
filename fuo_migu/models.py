@@ -1,9 +1,30 @@
+from fuocore.media import Media
 from fuocore.models import SearchType as FuoSearchType, BaseModel, SearchModel, SongModel, ArtistModel, \
     AlbumModel, PlaylistModel, MvModel, VideoModel, LyricModel  # noqa
+from fuocore.reader import SequentialReader
 
 from fuo_migu.provider import provider
 from fuo_migu.schema import SearchType
 from fuo_migu.service import MiguService
+
+
+def create_g(func, identifier):
+    data = func(identifier, page=1, page_size=30)
+    total = data.result.total_count
+
+    def g():
+        nonlocal data
+        if data is None:
+            yield from ()
+        else:
+            page = 1
+            while data.result.results:
+                for schema in data.result.results:
+                    yield schema.model()
+                page += 1
+                data = func(identifier, page=page, page_size=30)
+
+    return SequentialReader(g(), total)
 
 
 class MiguModelException(BaseException):
@@ -16,10 +37,23 @@ class MiguBaseModel(BaseModel):
 
 
 class MiguSongModel(SongModel, MiguBaseModel):
+    class Meta:
+        fields = ['qualities', 'content_id']
+        support_multi_quality = True
+
     @classmethod
     def get(cls, identifier):
         result = provider.api.song_detail(identifier)
         return result.data.model()
+
+    def list_quality(self):
+        return self.qualities
+
+    def get_media(self, quality):
+        url = provider.api.get_song_media(self.identifier, self.content_id, quality)
+        return Media(url,
+                     format='2000kflac' if quality == 'shq' else '320kmp3',
+                     bitrate='2000' if quality == 'shq' else '320')
 
 
 class MiguArtistModel(ArtistModel, MiguBaseModel):
@@ -27,7 +61,25 @@ class MiguArtistModel(ArtistModel, MiguBaseModel):
 
 
 class MiguAlbumModel(AlbumModel, MiguBaseModel):
-    pass
+    class Meta:
+        fields = ['cached_songs']
+        fields_no_get = ['type', 'songs']
+
+    @classmethod
+    def get(cls, identifier):
+        result = provider.api.album_detail(identifier)
+        return result.data.model()
+
+    @property
+    def songs(self):
+        if self.cached_songs is None:
+            result = provider.api.album_songs(self.identifier, 1, 30)
+            self.cached_songs = [o.model() for o in result.result.results]
+        return self.cached_songs
+
+    @songs.setter
+    def songs(self, _):
+        pass
 
 
 class MiguPlaylistModel(PlaylistModel, MiguBaseModel):
