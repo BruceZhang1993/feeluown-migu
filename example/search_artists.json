@@ -1,0 +1,21 @@
+{
+  "artists": [
+    {
+      "id": "1110230047",
+      "fullSongTotal": 1,
+      "title": "情话～",
+      "albumNum": 0,
+      "artistPicL": null,
+      "artistPicM": null,
+      "artistPicS": null,
+      "songNum": 1,
+      "highlightStr": [
+        "情话"
+      ]
+    }
+  ],
+  "pgt": 1,
+  "keyword": "情话",
+  "pageNo": "1",
+  "success": true
+}

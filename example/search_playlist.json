@@ -1,0 +1,368 @@
+{
+  "songLists": [
+    {
+      "highlightStr": [
+        "Hello",
+        "hello"
+      ],
+      "id": "135511204",
+      "img": "http://d.musicapp.migu.cn/ugcdata/playListimg/a1a0fd4c-5a65-4cd2-862d-d7c240506090.jpg",
+      "intro": null,
+      "keepNum": 6724,
+      "musicNum": 22,
+      "name": "被窝里的音符！给你一个赖床的理由",
+      "playNum": 4365923,
+      "priority": 0,
+      "shareNum": 247,
+      "songlistType": 1,
+      "userId": "d0285b34-559a-49b4-a6cc-70cb0839b862",
+      "userName": null
+    },
+    {
+      "highlightStr": [
+        "Hello",
+        "hello"
+      ],
+      "id": "177929223",
+      "img": "http://d.musicapp.migu.cn/ugcdata/playListimg/c1504d33-fe36-45a5-89f3-3403b63951f2.jpg",
+      "intro": null,
+      "keepNum": 6284,
+      "musicNum": 74,
+      "name": "抖音精选|跟着节奏抖起来",
+      "playNum": 2308039,
+      "priority": 0,
+      "shareNum": 58,
+      "songlistType": 1,
+      "userId": "a83b08e0-b01a-4a6c-b152-329ff089fa94",
+      "userName": null
+    },
+    {
+      "highlightStr": [
+        "Hello",
+        "hello"
+      ],
+      "id": "165550096",
+      "img": "http://d.musicapp.migu.cn/ugcdata/playListimg/5b1fedbe-020d-4a24-9004-74c752301924.jpg",
+      "intro": null,
+      "keepNum": 3560,
+      "musicNum": 20,
+      "name": "华语|浅唱青春",
+      "playNum": 2046623,
+      "priority": 0,
+      "shareNum": 200,
+      "songlistType": 1,
+      "userId": "d6490542-8ca5-4a34-b491-9e9b39b3e391",
+      "userName": null
+    },
+    {
+      "highlightStr": [
+        "Hello",
+        "hello"
+      ],
+      "id": "178367654",
+      "img": "http://d.musicapp.migu.cn/ugcdata/playListimg/f9a9b262-6f0e-4a76-88aa-48458bb84891.jpg",
+      "intro": null,
+      "keepNum": 5769,
+      "musicNum": 12,
+      "name": "【明星歌单】于湉私房推荐",
+      "playNum": 2013248,
+      "priority": 0,
+      "shareNum": 307,
+      "songlistType": 1,
+      "userId": "cd113fed-8f5e-449a-a0f4-b86044e04911",
+      "userName": null
+    },
+    {
+      "highlightStr": [
+        "Hello",
+        "hello"
+      ],
+      "id": "166408623",
+      "img": "http://d.musicapp.migu.cn/ugcdata/playListimg/805cc523-3281-468b-ba3c-e0757d22eba7.jpg",
+      "intro": null,
+      "keepNum": 4428,
+      "musicNum": 20,
+      "name": "燃向纯音|赶作业的伴侣",
+      "playNum": 1839710,
+      "priority": 0,
+      "shareNum": 307,
+      "songlistType": 1,
+      "userId": "a8c37dc2-876a-4986-b7d1-a5a11a39a32e",
+      "userName": null
+    },
+    {
+      "highlightStr": [
+        "Hello",
+        "hello"
+      ],
+      "id": "165624606",
+      "img": "http://d.musicapp.migu.cn/ugcdata/playListimg/1abc48dc-f162-47e9-8d8f-aa640473a570.jpg",
+      "intro": null,
+      "keepNum": 5345,
+      "musicNum": 20,
+      "name": "早安！梦想！\t",
+      "playNum": 1827340,
+      "priority": 0,
+      "shareNum": 215,
+      "songlistType": 1,
+      "userId": "1034d9ff-6542-49c5-a943-5cca0b0d91cd",
+      "userName": null
+    },
+    {
+      "highlightStr": [
+        "Hello",
+        "hello"
+      ],
+      "id": "164101346",
+      "img": "http://d.musicapp.migu.cn/ugcdata/playListimg/09b78b0d-9767-4b05-af36-67c5ccf83702.jpg",
+      "intro": null,
+      "keepNum": 2553,
+      "musicNum": 19,
+      "name": "洗澡专用，柔情R&B沐浴露",
+      "playNum": 1673640,
+      "priority": 0,
+      "shareNum": 87,
+      "songlistType": 1,
+      "userId": "e26aada5-b633-416e-af50-02140a48ee47",
+      "userName": null
+    },
+    {
+      "highlightStr": [
+        "Hello",
+        "hello"
+      ],
+      "id": "161860027",
+      "img": "http://d.musicapp.migu.cn/prod/playlist-service/playListimg/e417b07d-8592-43b3-aa25-93df2447031e.jpg",
+      "intro": null,
+      "keepNum": 4547,
+      "musicNum": 20,
+      "name": "快乐加油站！搞笑魔性神曲",
+      "playNum": 1564896,
+      "priority": 0,
+      "shareNum": 1870,
+      "songlistType": 1,
+      "userId": "3428e2bb-fc6d-4f7c-a0e1-794937c28711",
+      "userName": null
+    },
+    {
+      "highlightStr": [
+        "Hello",
+        "hello"
+      ],
+      "id": "167501795",
+      "img": "http://d.musicapp.migu.cn/ugcdata/playListimg/209724c3-f96f-4f49-962a-c13aa3a0994b.jpg",
+      "intro": null,
+      "keepNum": 6858,
+      "musicNum": 35,
+      "name": "清新韩语，叫醒熟睡的耳朵",
+      "playNum": 1358861,
+      "priority": 0,
+      "shareNum": 344,
+      "songlistType": 1,
+      "userId": "e6a416be-324f-4055-b024-ebac1d9b585b",
+      "userName": null
+    },
+    {
+      "highlightStr": [
+        "Hello",
+        "hello"
+      ],
+      "id": "166978363",
+      "img": "http://d.musicapp.migu.cn/ugcdata/playListimg/f8509d1f-b693-42e5-ba05-261ee17e2b7f.jpg",
+      "intro": null,
+      "keepNum": 3369,
+      "musicNum": 26,
+      "name": "提神电音，拒绝犯困",
+      "playNum": 1334339,
+      "priority": 0,
+      "shareNum": 1294,
+      "songlistType": 1,
+      "userId": "2ff9a420-26c1-4ab5-9291-0a15b4327d63",
+      "userName": null
+    },
+    {
+      "highlightStr": [
+        "Hello",
+        "hello"
+      ],
+      "id": "132852515",
+      "img": "http://d.musicapp.migu.cn/prod/playlist-service/playListimg/36934cb3-93e7-4f24-91b9-671add00ef08.jpg",
+      "intro": null,
+      "keepNum": 1432,
+      "musicNum": 27,
+      "name": "二次元の赐予我正能量吧",
+      "playNum": 1312902,
+      "priority": 0,
+      "shareNum": 173,
+      "songlistType": 1,
+      "userId": "e0ec698c-e094-4b1f-b575-007b6c306e03",
+      "userName": null
+    },
+    {
+      "highlightStr": [
+        "Hello",
+        "hello"
+      ],
+      "id": "178940617",
+      "img": "http://d.musicapp.migu.cn/ugcdata/playListimg/b1f82b45-1463-4841-b9fa-4bf56246e57c.jpg",
+      "intro": null,
+      "keepNum": 3359,
+      "musicNum": 50,
+      "name": "权志龙|为舞台而生的王者，全世界为你倾倒",
+      "playNum": 1214105,
+      "priority": 0,
+      "shareNum": 88,
+      "songlistType": 1,
+      "userId": "0262d3f9-0c0e-4ebe-9d28-46bec51ac4de",
+      "userName": null
+    },
+    {
+      "highlightStr": [
+        "Hello",
+        "hello"
+      ],
+      "id": "166969295",
+      "img": "http://d.musicapp.migu.cn/ugcdata/playListimg/043ec005-c80e-4032-9a67-74ea70ba0c16.jpg",
+      "intro": null,
+      "keepNum": 2196,
+      "musicNum": 23,
+      "name": "欧美烟嗓，浓酽醒神",
+      "playNum": 1026633,
+      "priority": 0,
+      "shareNum": 58,
+      "songlistType": 1,
+      "userId": "92abf467-4929-4256-b019-995c66d71ac9",
+      "userName": null
+    },
+    {
+      "highlightStr": [
+        "Hello",
+        "hello"
+      ],
+      "id": "170602813",
+      "img": "http://d.musicapp.migu.cn/ugcdata/playListimg/d0184e7b-17a6-4415-b972-cfbf8289da4b.jpg",
+      "intro": null,
+      "keepNum": 2859,
+      "musicNum": 23,
+      "name": "被窝是我的故乡，一起床便思乡",
+      "playNum": 1009251,
+      "priority": 0,
+      "shareNum": 202,
+      "songlistType": 1,
+      "userId": "48f5922b-9735-4142-9d71-08a74ca0406b",
+      "userName": null
+    },
+    {
+      "highlightStr": [
+        "Hello",
+        "hello"
+      ],
+      "id": "147908633",
+      "img": "http://d.musicapp.migu.cn/ugcdata/playListimg/8173d932-a495-4665-a9a2-882ca955794c.jpg",
+      "intro": null,
+      "keepNum": 268,
+      "musicNum": 47,
+      "name": "个人小站|承载无数青春回忆",
+      "playNum": 811569,
+      "priority": 0,
+      "shareNum": 427,
+      "songlistType": 1,
+      "userId": "91a50d7a-9337-4af9-bc3f-b126456a36af",
+      "userName": null
+    },
+    {
+      "highlightStr": [
+        "Hello",
+        "hello"
+      ],
+      "id": "129204841",
+      "img": "http://d.musicapp.migu.cn/prod/playlist-service/playListimg/7bd4204a-5141-40db-afcb-9a1ec8d79e0d.jpg",
+      "intro": null,
+      "keepNum": 749,
+      "musicNum": 20,
+      "name": "英伦格调|令人心醉的魅力女声",
+      "playNum": 753011,
+      "priority": 0,
+      "shareNum": 512,
+      "songlistType": 1,
+      "userId": "081f42cc-185c-4808-927d-0e2d849d6041",
+      "userName": null
+    },
+    {
+      "highlightStr": [
+        "Hello",
+        "hello"
+      ],
+      "id": "118867908",
+      "img": "http://d.musicapp.migu.cn/ugcdata/playListimg//bf0c3e7a-54a0-46a7-a01c-eb36a5f77510.jpg",
+      "intro": null,
+      "keepNum": 3741,
+      "musicNum": 19,
+      "name": "空降billboard单曲榜冠军的歌曲",
+      "playNum": 692877,
+      "priority": 0,
+      "shareNum": 299,
+      "songlistType": 1,
+      "userId": "db54325d-a4c3-46ad-8169-eab48d4ab42a",
+      "userName": null
+    },
+    {
+      "highlightStr": [
+        "Hello",
+        "hello"
+      ],
+      "id": "112289876",
+      "img": "http://d.musicapp.migu.cn/ugcdata/playListimg//afa7aa82-e666-4433-b87b-1ee4fa2ff5a2.jpg",
+      "intro": null,
+      "keepNum": 7185,
+      "musicNum": 15,
+      "name": "Billboard史上蝉联冠军时间最长的单曲",
+      "playNum": 684239,
+      "priority": 0,
+      "shareNum": 508,
+      "songlistType": 1,
+      "userId": "4ffa84c3-ff85-46b7-bd3d-aa5acd5d682a",
+      "userName": null
+    },
+    {
+      "highlightStr": [
+        "Hello",
+        "hello"
+      ],
+      "id": "146784139",
+      "img": "http://d.musicapp.migu.cn/ugcdata/playListimg/13eca4f1-c595-42b6-a8df-b18ab9c4c76c.jpg",
+      "intro": null,
+      "keepNum": 147,
+      "musicNum": 21,
+      "name": "「慎点」可能会被室友打死的闹钟铃声！！！",
+      "playNum": 613652,
+      "priority": 0,
+      "shareNum": 91,
+      "songlistType": 1,
+      "userId": "2a081150-ee47-4c09-be52-5d1c964c7d6b",
+      "userName": null
+    },
+    {
+      "highlightStr": [
+        "Hello",
+        "hello"
+      ],
+      "id": "135420760",
+      "img": "http://d.musicapp.migu.cn/ugcdata/playListimg/5712d1e0-d093-4ccc-85b6-9b77d83c9f78.jpg",
+      "intro": null,
+      "keepNum": 347,
+      "musicNum": 138,
+      "name": "『开车必备』音乐在路上",
+      "playNum": 598994,
+      "priority": 0,
+      "shareNum": 249,
+      "songlistType": 1,
+      "userId": "1b154101-627c-4174-8f50-308afd3aed01",
+      "userName": null
+    }
+  ],
+  "pgt": 200,
+  "keyword": "hello",
+  "pageNo": "1",
+  "success": true
+}

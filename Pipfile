@@ -1,0 +1,14 @@
+[[source]]
+url = "https://pypi.doubanio.com/simple"
+verify_ssl = true
+name = "doubanpypi"
+
+[packages]
+feeluown = '*'
+PyQt5 = '*'
+qasync = '*'
+requests = '*'
+pydantic = '*'
+
+[dev-packages]
+pytest = '*'

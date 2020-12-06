@@ -1,0 +1,973 @@
+{
+  "result": {
+    "asc": false,
+    "currentPage": 0,
+    "orderBy": null,
+    "pageSize": 20,
+    "results": [
+      {
+        "auditions": null,
+        "auditionsFlag": null,
+        "copyrightId": "60054704158",
+        "cr": {
+          "copyrihtId": "600547041580",
+          "invalidateDate": "2022-11-30",
+          "productId": "600913000009798688",
+          "resourceIdList": [],
+          "validateDate": null
+        },
+        "customizedPicUrl": null,
+        "fanyiLrc": null,
+        "has24Bitqq": null,
+        "has3Dqq": "1",
+        "hasHQqq": null,
+        "hasMv": null,
+        "hasSQqq": null,
+        "isHdCrbt": "1",
+        "lift": null,
+        "lisCr": "https://freetyst.nf.migu.cn/public%2Fproduct9th%2Fproduct41%2F2020%2F06%2F1922%2F2020%E5%B9%B406%E6%9C%8819%E6%97%A516%E7%82%B929%E5%88%86%E7%B4%A7%E6%80%A5%E5%86%85%E5%AE%B9%E5%87%86%E5%85%A5%E7%BA%B5%E6%A8%AA%E4%B8%96%E4%BB%A31%E9%A6%96%2F%E5%BD%A9%E9%93%83%2F6_mp3-128kbps%2F60054704158221801.mp3",
+        "lisQq": null,
+        "listenUrl": "https://freetyst.nf.migu.cn/public%2Fproduct9th%2Fproduct41%2F2020%2F0619%2F60054704158.mp3",
+        "lyricLrc": null,
+        "mvCopyrightId": null,
+        "picL": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/l_fQfFIakBWCqyQqHV.jpg",
+        "picM": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/m_67VxHnIFgG4n3UIl.jpg",
+        "picS": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/s_wzPibes140ysXBfo.jpg",
+        "qq": {
+          "copyrihtId": "600547041582",
+          "invalidateDate": "2022-11-30",
+          "productId": "600913000009798690",
+          "resourceIdList": [
+            "020023"
+          ],
+          "validateDate": "2020-06-19"
+        },
+        "relationTitle": null,
+        "rt": null,
+        "singerId": [
+          "112",
+          "75073"
+        ],
+        "singerName": [
+          "周杰伦",
+          "杨瑞代"
+        ],
+        "songDesc": null,
+        "songId": "1134187263",
+        "songName": "我要夏天(3D Audio)",
+        "unuseFlag": null
+      },
+      {
+        "auditions": {
+          "lisBq": null,
+          "lisBqSize": null,
+          "lisHQ": null,
+          "lisHQSize": null,
+          "lisSQ": null,
+          "lisSQSize": null
+        },
+        "auditionsFlag": "12",
+        "copyrightId": "60054704155",
+        "cr": {
+          "copyrihtId": "600547041550",
+          "invalidateDate": "2022-11-30",
+          "productId": "600913000009346980",
+          "resourceIdList": [],
+          "validateDate": null
+        },
+        "customizedPicUrl": null,
+        "fanyiLrc": null,
+        "has24Bitqq": null,
+        "has3Dqq": "1",
+        "hasHQqq": null,
+        "hasMv": null,
+        "hasSQqq": null,
+        "isHdCrbt": "1",
+        "lift": null,
+        "lisCr": "https://freetyst.nf.migu.cn/public%2Fproduct8th%2Fproduct40%2F2020%2F05%2F2617%2F2020%E5%B9%B405%E6%9C%8826%E6%97%A516%E7%82%B936%E5%88%86%E7%B4%A7%E6%80%A5%E5%86%85%E5%AE%B9%E5%87%86%E5%85%A5%E7%BA%B5%E6%A8%AA%E4%B8%96%E4%BB%A31%E9%A6%96%2F%E5%BD%A9%E9%93%83%2F6_mp3-128kbps%2F60054704155172035.mp3",
+        "lisQq": "9086976",
+        "listenUrl": "https://freetyst.nf.migu.cn/public%2Fproduct8th%2Fproduct40%2F2020%2F0513%2F69543309911.mp3",
+        "lyricLrc": null,
+        "mvCopyrightId": null,
+        "picL": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/l_fQfFIakBWCqyQqHV.jpg",
+        "picM": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/m_67VxHnIFgG4n3UIl.jpg",
+        "picS": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/s_wzPibes140ysXBfo.jpg",
+        "qq": {
+          "copyrihtId": "600547041552",
+          "invalidateDate": "2022-11-30",
+          "productId": "600913000009346982",
+          "resourceIdList": [
+            "020023"
+          ],
+          "validateDate": "2020-05-28"
+        },
+        "relationTitle": null,
+        "rt": null,
+        "singerId": [
+          "112"
+        ],
+        "singerName": [
+          "周杰伦"
+        ],
+        "songDesc": null,
+        "songId": "1134044275",
+        "songName": "我落泪情绪零碎(3D Audio)",
+        "unuseFlag": null
+      },
+      {
+        "auditions": null,
+        "auditionsFlag": null,
+        "copyrightId": "60054704154",
+        "cr": {
+          "copyrihtId": "600547041540",
+          "invalidateDate": "2022-11-30",
+          "productId": "600913000009280198",
+          "resourceIdList": [],
+          "validateDate": null
+        },
+        "customizedPicUrl": null,
+        "fanyiLrc": null,
+        "has24Bitqq": null,
+        "has3Dqq": null,
+        "hasHQqq": null,
+        "hasMv": null,
+        "hasSQqq": null,
+        "isHdCrbt": "1",
+        "lift": null,
+        "lisCr": "https://freetyst.nf.migu.cn/public%2Fproduct8th%2Fproduct40%2F2020%2F05%2F1817%2F2020%E5%B9%B405%E6%9C%8818%E6%97%A515%E7%82%B929%E5%88%86%E7%B4%A7%E6%80%A5%E5%86%85%E5%AE%B9%E5%87%86%E5%85%A5%E7%BA%B5%E6%A8%AA%E4%B8%96%E4%BB%A33%E9%A6%96%2F%E5%BD%A9%E9%93%83%2F6_mp3-128kbps%2F60054704154172154.mp3",
+        "lisQq": null,
+        "listenUrl": "https://freetyst.nf.migu.cn/public%2Fproduct7th%2Fmv03%2F0518%2F69543309892.mp3",
+        "lyricLrc": null,
+        "mvCopyrightId": null,
+        "picL": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/l_fQfFIakBWCqyQqHV.jpg",
+        "picM": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/m_67VxHnIFgG4n3UIl.jpg",
+        "picS": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/s_wzPibes140ysXBfo.jpg",
+        "qq": null,
+        "relationTitle": null,
+        "rt": null,
+        "singerId": [
+          "112"
+        ],
+        "singerName": [
+          "周杰伦"
+        ],
+        "songDesc": null,
+        "songId": "1133789673",
+        "songName": "花海(3D Audio)",
+        "unuseFlag": null
+      },
+      {
+        "auditions": null,
+        "auditionsFlag": null,
+        "copyrightId": "60054704153",
+        "cr": {
+          "copyrihtId": "600547041530",
+          "invalidateDate": "2022-11-30",
+          "productId": "600913000009280194",
+          "resourceIdList": [],
+          "validateDate": null
+        },
+        "customizedPicUrl": null,
+        "fanyiLrc": null,
+        "has24Bitqq": null,
+        "has3Dqq": null,
+        "hasHQqq": null,
+        "hasMv": null,
+        "hasSQqq": null,
+        "isHdCrbt": "1",
+        "lift": null,
+        "lisCr": "https://freetyst.nf.migu.cn/public%2Fproduct8th%2Fproduct40%2F2020%2F05%2F1817%2F2020%E5%B9%B405%E6%9C%8818%E6%97%A515%E7%82%B929%E5%88%86%E7%B4%A7%E6%80%A5%E5%86%85%E5%AE%B9%E5%87%86%E5%85%A5%E7%BA%B5%E6%A8%AA%E4%B8%96%E4%BB%A33%E9%A6%96%2F%E5%BD%A9%E9%93%83%2F6_mp3-128kbps%2F60054704153172127.mp3",
+        "lisQq": null,
+        "listenUrl": "https://freetyst.nf.migu.cn/public%2Fproduct7th%2Fmv03%2F0518%2F69543309893.mp3",
+        "lyricLrc": null,
+        "mvCopyrightId": null,
+        "picL": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/l_fQfFIakBWCqyQqHV.jpg",
+        "picM": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/m_67VxHnIFgG4n3UIl.jpg",
+        "picS": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/s_wzPibes140ysXBfo.jpg",
+        "qq": null,
+        "relationTitle": null,
+        "rt": null,
+        "singerId": [
+          "112"
+        ],
+        "singerName": [
+          "周杰伦"
+        ],
+        "songDesc": null,
+        "songId": "1133789672",
+        "songName": "夜的第七章(3D Audio)",
+        "unuseFlag": null
+      },
+      {
+        "auditions": null,
+        "auditionsFlag": null,
+        "copyrightId": "60054704152",
+        "cr": {
+          "copyrihtId": "600547041520",
+          "invalidateDate": "2022-11-30",
+          "productId": "600913000009280186",
+          "resourceIdList": [],
+          "validateDate": null
+        },
+        "customizedPicUrl": null,
+        "fanyiLrc": null,
+        "has24Bitqq": null,
+        "has3Dqq": null,
+        "hasHQqq": null,
+        "hasMv": null,
+        "hasSQqq": null,
+        "isHdCrbt": "1",
+        "lift": null,
+        "lisCr": "https://freetyst.nf.migu.cn/public%2Fproduct8th%2Fproduct40%2F2020%2F05%2F1817%2F2020%E5%B9%B405%E6%9C%8818%E6%97%A515%E7%82%B929%E5%88%86%E7%B4%A7%E6%80%A5%E5%86%85%E5%AE%B9%E5%87%86%E5%85%A5%E7%BA%B5%E6%A8%AA%E4%B8%96%E4%BB%A33%E9%A6%96%2F%E5%BD%A9%E9%93%83%2F6_mp3-128kbps%2F60054704152172320.mp3",
+        "lisQq": null,
+        "listenUrl": "https://freetyst.nf.migu.cn/public%2Fproduct7th%2Fmv03%2F0518%2F69543309895.mp3",
+        "lyricLrc": null,
+        "mvCopyrightId": null,
+        "picL": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/l_fQfFIakBWCqyQqHV.jpg",
+        "picM": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/m_67VxHnIFgG4n3UIl.jpg",
+        "picS": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/s_wzPibes140ysXBfo.jpg",
+        "qq": null,
+        "relationTitle": null,
+        "rt": null,
+        "singerId": [
+          "112"
+        ],
+        "singerName": [
+          "周杰伦"
+        ],
+        "songDesc": null,
+        "songId": "1133789670",
+        "songName": "以父之名(3D Audio)",
+        "unuseFlag": null
+      },
+      {
+        "auditions": null,
+        "auditionsFlag": null,
+        "copyrightId": "60054704157",
+        "cr": {
+          "copyrihtId": "600547041570",
+          "invalidateDate": "2022-11-30",
+          "productId": "600913000009395076",
+          "resourceIdList": [],
+          "validateDate": null
+        },
+        "customizedPicUrl": null,
+        "fanyiLrc": null,
+        "has24Bitqq": null,
+        "has3Dqq": "1",
+        "hasHQqq": null,
+        "hasMv": null,
+        "hasSQqq": null,
+        "isHdCrbt": "1",
+        "lift": null,
+        "lisCr": "https://freetyst.nf.migu.cn/public%2Fproduct8th%2Fproduct40%2F2020%2F05%2F3122%2F2020%E5%B9%B405%E6%9C%8831%E6%97%A522%E7%82%B908%E5%88%86%E7%B4%A7%E6%80%A5%E5%86%85%E5%AE%B9%E5%87%86%E5%85%A5%E7%BA%B5%E6%A8%AA%E4%B8%96%E4%BB%A31%E9%A6%96%2F%E5%BD%A9%E9%93%83%2F6_mp3-128kbps%2F60054704157224129.mp3",
+        "lisQq": null,
+        "listenUrl": null,
+        "lyricLrc": null,
+        "mvCopyrightId": null,
+        "picL": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/l_fQfFIakBWCqyQqHV.jpg",
+        "picM": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/m_67VxHnIFgG4n3UIl.jpg",
+        "picS": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/s_wzPibes140ysXBfo.jpg",
+        "qq": {
+          "copyrihtId": "600547041572",
+          "invalidateDate": "2022-11-30",
+          "productId": "600913000009395078",
+          "resourceIdList": [
+            "020023"
+          ],
+          "validateDate": "2020-05-31"
+        },
+        "relationTitle": null,
+        "rt": null,
+        "singerId": [
+          "112"
+        ],
+        "singerName": [
+          "周杰伦"
+        ],
+        "songDesc": null,
+        "songId": "1133461029",
+        "songName": "七里香(3D Audio)",
+        "unuseFlag": null
+      },
+      {
+        "auditions": null,
+        "auditionsFlag": null,
+        "copyrightId": "60054704149",
+        "cr": {
+          "copyrihtId": "600547041490",
+          "invalidateDate": "2022-11-30",
+          "productId": "600913000009222420",
+          "resourceIdList": [],
+          "validateDate": null
+        },
+        "customizedPicUrl": null,
+        "fanyiLrc": null,
+        "has24Bitqq": null,
+        "has3Dqq": "1",
+        "hasHQqq": null,
+        "hasMv": null,
+        "hasSQqq": null,
+        "isHdCrbt": "1",
+        "lift": null,
+        "lisCr": "https://freetyst.nf.migu.cn/public%2Fproduct8th%2Fproduct40%2F2020%2F05%2F0917%2F2020%E5%B9%B405%E6%9C%8809%E6%97%A512%E7%82%B938%E5%88%86%E7%B4%A7%E6%80%A5%E5%86%85%E5%AE%B9%E5%87%86%E5%85%A5%E7%BA%B5%E6%A8%AA%E4%B8%96%E4%BB%A32%E9%A6%96%2F%E5%BD%A9%E9%93%83%2F6_mp3-128kbps%2F60054704149173039.mp3",
+        "lisQq": null,
+        "listenUrl": "https://freetyst.nf.migu.cn/public%2Fproduct8th%2Fproduct40%2F20200509%2F5%2F69543309841.mp3",
+        "lyricLrc": null,
+        "mvCopyrightId": null,
+        "picL": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/l_fQfFIakBWCqyQqHV.jpg",
+        "picM": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/m_67VxHnIFgG4n3UIl.jpg",
+        "picS": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/s_wzPibes140ysXBfo.jpg",
+        "qq": {
+          "copyrihtId": "600547041492",
+          "invalidateDate": "2022-11-30",
+          "productId": "600913000009222422",
+          "resourceIdList": [
+            "020023"
+          ],
+          "validateDate": "2020-05-09"
+        },
+        "relationTitle": null,
+        "rt": null,
+        "singerId": [
+          "112"
+        ],
+        "singerName": [
+          "周杰伦"
+        ],
+        "songDesc": null,
+        "songId": "1133461028",
+        "songName": "晴天(3D Audio)",
+        "unuseFlag": null
+      },
+      {
+        "auditions": null,
+        "auditionsFlag": null,
+        "copyrightId": "60054704147",
+        "cr": {
+          "copyrihtId": "600547041470",
+          "invalidateDate": "2022-11-30",
+          "productId": "600913000009207863",
+          "resourceIdList": [],
+          "validateDate": null
+        },
+        "customizedPicUrl": null,
+        "fanyiLrc": null,
+        "has24Bitqq": null,
+        "has3Dqq": null,
+        "hasHQqq": null,
+        "hasMv": null,
+        "hasSQqq": null,
+        "isHdCrbt": "1",
+        "lift": null,
+        "lisCr": "https://freetyst.nf.migu.cn/public%2Fproduct8th%2Fproduct39%2F2020%2F05%2F0720%2F2020%E5%B9%B405%E6%9C%8807%E6%97%A519%E7%82%B932%E5%88%86%E7%B4%A7%E6%80%A5%E5%86%85%E5%AE%B9%E5%87%86%E5%85%A5%E7%BA%B5%E6%A8%AA%E4%B8%96%E4%BB%A33%E9%A6%96%2F%E5%BD%A9%E9%93%83%2F6_mp3-128kbps%2F60054704147205846.mp3",
+        "lisQq": null,
+        "listenUrl": "https://freetyst.nf.migu.cn/public%2Fproduct7th%2Fmv03%2F0307%2F69543309825.mp3",
+        "lyricLrc": null,
+        "mvCopyrightId": null,
+        "picL": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/l_fQfFIakBWCqyQqHV.jpg",
+        "picM": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/m_67VxHnIFgG4n3UIl.jpg",
+        "picS": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/s_wzPibes140ysXBfo.jpg",
+        "qq": null,
+        "relationTitle": null,
+        "rt": null,
+        "singerId": [
+          "112"
+        ],
+        "singerName": [
+          "周杰伦"
+        ],
+        "songDesc": null,
+        "songId": "1133263359",
+        "songName": "听妈妈的话 (3D Audio)",
+        "unuseFlag": null
+      },
+      {
+        "auditions": null,
+        "auditionsFlag": null,
+        "copyrightId": "60054704146",
+        "cr": {
+          "copyrihtId": "600547041460",
+          "invalidateDate": "2022-11-30",
+          "productId": "600913000009207851",
+          "resourceIdList": [],
+          "validateDate": null
+        },
+        "customizedPicUrl": null,
+        "fanyiLrc": null,
+        "has24Bitqq": null,
+        "has3Dqq": null,
+        "hasHQqq": null,
+        "hasMv": null,
+        "hasSQqq": null,
+        "isHdCrbt": "1",
+        "lift": null,
+        "lisCr": "https://freetyst.nf.migu.cn/public%2Fproduct8th%2Fproduct39%2F2020%2F05%2F0721%2F2020%E5%B9%B405%E6%9C%8807%E6%97%A519%E7%82%B932%E5%88%86%E7%B4%A7%E6%80%A5%E5%86%85%E5%AE%B9%E5%87%86%E5%85%A5%E7%BA%B5%E6%A8%AA%E4%B8%96%E4%BB%A33%E9%A6%96%2F%E5%BD%A9%E9%93%83%2F6_mp3-128kbps%2F60054704146210157.mp3",
+        "lisQq": null,
+        "listenUrl": "https://freetyst.nf.migu.cn/public%2Fproduct7th%2Fmv03%2F0307%2F69543309827.mp3",
+        "lyricLrc": null,
+        "mvCopyrightId": null,
+        "picL": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/l_fQfFIakBWCqyQqHV.jpg",
+        "picM": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/m_67VxHnIFgG4n3UIl.jpg",
+        "picS": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/s_wzPibes140ysXBfo.jpg",
+        "qq": null,
+        "relationTitle": null,
+        "rt": null,
+        "singerId": [
+          "112"
+        ],
+        "singerName": [
+          "周杰伦"
+        ],
+        "songDesc": null,
+        "songId": "1133263352",
+        "songName": "外婆 (3D Audio)",
+        "unuseFlag": null
+      },
+      {
+        "auditions": null,
+        "auditionsFlag": null,
+        "copyrightId": "60054704148",
+        "cr": {
+          "copyrihtId": "600547041480",
+          "invalidateDate": "2022-11-30",
+          "productId": "600913000009207859",
+          "resourceIdList": [],
+          "validateDate": null
+        },
+        "customizedPicUrl": null,
+        "fanyiLrc": null,
+        "has24Bitqq": null,
+        "has3Dqq": null,
+        "hasHQqq": null,
+        "hasMv": null,
+        "hasSQqq": null,
+        "isHdCrbt": "1",
+        "lift": null,
+        "lisCr": "https://freetyst.nf.migu.cn/public%2Fproduct8th%2Fproduct39%2F2020%2F05%2F0720%2F2020%E5%B9%B405%E6%9C%8807%E6%97%A519%E7%82%B932%E5%88%86%E7%B4%A7%E6%80%A5%E5%86%85%E5%AE%B9%E5%87%86%E5%85%A5%E7%BA%B5%E6%A8%AA%E4%B8%96%E4%BB%A33%E9%A6%96%2F%E5%BD%A9%E9%93%83%2F6_mp3-128kbps%2F60054704148205633.mp3",
+        "lisQq": null,
+        "listenUrl": "https://freetyst.nf.migu.cn/public%2Fproduct7th%2Fmv03%2F0307%2F69543309824.mp3",
+        "lyricLrc": null,
+        "mvCopyrightId": null,
+        "picL": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/l_fQfFIakBWCqyQqHV.jpg",
+        "picM": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/m_67VxHnIFgG4n3UIl.jpg",
+        "picS": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/s_wzPibes140ysXBfo.jpg",
+        "qq": null,
+        "relationTitle": null,
+        "rt": null,
+        "singerId": [
+          "112"
+        ],
+        "singerName": [
+          "周杰伦"
+        ],
+        "songDesc": null,
+        "songId": "1133263351",
+        "songName": "前世情人(专辑版) (3D Audio)",
+        "unuseFlag": null
+      },
+      {
+        "auditions": null,
+        "auditionsFlag": null,
+        "copyrightId": "60054704141",
+        "cr": {
+          "copyrihtId": "600547041410",
+          "invalidateDate": "2022-11-30",
+          "productId": "600913000009036793",
+          "resourceIdList": [],
+          "validateDate": null
+        },
+        "customizedPicUrl": null,
+        "fanyiLrc": null,
+        "has24Bitqq": null,
+        "has3Dqq": "1",
+        "hasHQqq": null,
+        "hasMv": null,
+        "hasSQqq": null,
+        "isHdCrbt": "1",
+        "lift": null,
+        "lisCr": "https://freetyst.nf.migu.cn/public%2Fproduct8th%2Fproduct39%2F2020%2F04%2F1623%2F2020%E5%B9%B404%E6%9C%8816%E6%97%A521%E7%82%B942%E5%88%86%E7%B4%A7%E6%80%A5%E5%86%85%E5%AE%B9%E5%87%86%E5%85%A5%E7%BA%B5%E6%A8%AA%E4%B8%96%E4%BB%A31%E9%A6%96%2F%E5%BD%A9%E9%93%83%2F6_mp3-128kbps%2F60054704141231120.mp3",
+        "lisQq": null,
+        "listenUrl": "https://freetyst.nf.migu.cn/public%2Fpublicsource6th%2Fpublicsource27%2F695433%2F2020%2F04%2F16%2F21%2F202004162133%2F69543309802%2F69543309802.mp3",
+        "lyricLrc": null,
+        "mvCopyrightId": null,
+        "picL": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/l_fQfFIakBWCqyQqHV.jpg",
+        "picM": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/m_67VxHnIFgG4n3UIl.jpg",
+        "picS": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/s_wzPibes140ysXBfo.jpg",
+        "qq": {
+          "copyrihtId": "600547041412",
+          "invalidateDate": "2022-11-30",
+          "productId": "600913000009036787",
+          "resourceIdList": [
+            "020023"
+          ],
+          "validateDate": "2020-04-16"
+        },
+        "relationTitle": null,
+        "rt": null,
+        "singerId": [
+          "112"
+        ],
+        "singerName": [
+          "周杰伦"
+        ],
+        "songDesc": null,
+        "songId": "1131502242",
+        "songName": "霍元甲(3D Audio)",
+        "unuseFlag": null
+      },
+      {
+        "auditions": null,
+        "auditionsFlag": null,
+        "copyrightId": "60054704140",
+        "cr": {
+          "copyrihtId": "600547041400",
+          "invalidateDate": "2022-11-30",
+          "productId": "600913000008966123",
+          "resourceIdList": [],
+          "validateDate": null
+        },
+        "customizedPicUrl": null,
+        "fanyiLrc": null,
+        "has24Bitqq": null,
+        "has3Dqq": "1",
+        "hasHQqq": null,
+        "hasMv": null,
+        "hasSQqq": null,
+        "isHdCrbt": "1",
+        "lift": null,
+        "lisCr": "https://freetyst.nf.migu.cn/public%2Fproduct8th%2Fproduct39%2F2020%2F04%2F0816%2F2020%E5%B9%B404%E6%9C%8808%E6%97%A511%E7%82%B949%E5%88%86%E7%B4%A7%E6%80%A5%E5%86%85%E5%AE%B9%E5%87%86%E5%85%A5%E7%BA%B5%E6%A8%AA%E4%B8%96%E4%BB%A34%E9%A6%96%2F%E5%BD%A9%E9%93%83%2F6_mp3-128kbps%2F60054704140165345.mp3",
+        "lisQq": null,
+        "listenUrl": "https://freetyst.nf.migu.cn/public%2Fpublicsource6th%2Fpublicsource27%2F695433%2F2020%2F04%2F08%2F11%2F202004081133%2F69543309772%2F69543309772.mp3",
+        "lyricLrc": null,
+        "mvCopyrightId": null,
+        "picL": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/l_fQfFIakBWCqyQqHV.jpg",
+        "picM": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/m_67VxHnIFgG4n3UIl.jpg",
+        "picS": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/s_wzPibes140ysXBfo.jpg",
+        "qq": {
+          "copyrihtId": "600547041402",
+          "invalidateDate": "2022-11-30",
+          "productId": "600913000008965604",
+          "resourceIdList": [
+            "020023"
+          ],
+          "validateDate": "2020-04-08"
+        },
+        "relationTitle": null,
+        "rt": null,
+        "singerId": [
+          "112"
+        ],
+        "singerName": [
+          "周杰伦"
+        ],
+        "songDesc": null,
+        "songId": "1131254553",
+        "songName": "给我一首歌的时间(3D Audio)",
+        "unuseFlag": null
+      },
+      {
+        "auditions": null,
+        "auditionsFlag": null,
+        "copyrightId": "60054704139",
+        "cr": {
+          "copyrihtId": "600547041390",
+          "invalidateDate": "2022-11-30",
+          "productId": "600913000008966117",
+          "resourceIdList": [],
+          "validateDate": null
+        },
+        "customizedPicUrl": null,
+        "fanyiLrc": null,
+        "has24Bitqq": null,
+        "has3Dqq": "1",
+        "hasHQqq": null,
+        "hasMv": null,
+        "hasSQqq": null,
+        "isHdCrbt": "1",
+        "lift": null,
+        "lisCr": "https://freetyst.nf.migu.cn/public%2Fproduct8th%2Fproduct39%2F2020%2F04%2F0816%2F2020%E5%B9%B404%E6%9C%8808%E6%97%A511%E7%82%B949%E5%88%86%E7%B4%A7%E6%80%A5%E5%86%85%E5%AE%B9%E5%87%86%E5%85%A5%E7%BA%B5%E6%A8%AA%E4%B8%96%E4%BB%A34%E9%A6%96%2F%E5%BD%A9%E9%93%83%2F6_mp3-128kbps%2F60054704139165553.mp3",
+        "lisQq": null,
+        "listenUrl": "https://freetyst.nf.migu.cn/public%2Fpublicsource6th%2Fpublicsource27%2F695433%2F2020%2F04%2F08%2F11%2F202004081133%2F69543309775%2F69543309775.mp3",
+        "lyricLrc": null,
+        "mvCopyrightId": null,
+        "picL": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/l_fQfFIakBWCqyQqHV.jpg",
+        "picM": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/m_67VxHnIFgG4n3UIl.jpg",
+        "picS": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/s_wzPibes140ysXBfo.jpg",
+        "qq": {
+          "copyrihtId": "600547041392",
+          "invalidateDate": "2022-11-30",
+          "productId": "600913000008965598",
+          "resourceIdList": [
+            "020023"
+          ],
+          "validateDate": "2020-04-08"
+        },
+        "relationTitle": null,
+        "rt": null,
+        "singerId": [
+          "112"
+        ],
+        "singerName": [
+          "周杰伦"
+        ],
+        "songDesc": null,
+        "songId": "1131254550",
+        "songName": "她的睫毛(3D Audio)",
+        "unuseFlag": null
+      },
+      {
+        "auditions": null,
+        "auditionsFlag": null,
+        "copyrightId": "60054704138",
+        "cr": {
+          "copyrihtId": "600547041380",
+          "invalidateDate": "2022-11-30",
+          "productId": "600913000008966115",
+          "resourceIdList": [],
+          "validateDate": null
+        },
+        "customizedPicUrl": null,
+        "fanyiLrc": null,
+        "has24Bitqq": null,
+        "has3Dqq": "1",
+        "hasHQqq": null,
+        "hasMv": null,
+        "hasSQqq": null,
+        "isHdCrbt": "1",
+        "lift": null,
+        "lisCr": "https://freetyst.nf.migu.cn/public%2Fproduct8th%2Fproduct39%2F2020%2F04%2F0816%2F2020%E5%B9%B404%E6%9C%8808%E6%97%A511%E7%82%B949%E5%88%86%E7%B4%A7%E6%80%A5%E5%86%85%E5%AE%B9%E5%87%86%E5%85%A5%E7%BA%B5%E6%A8%AA%E4%B8%96%E4%BB%A34%E9%A6%96%2F%E5%BD%A9%E9%93%83%2F6_mp3-128kbps%2F60054704138165318.mp3",
+        "lisQq": null,
+        "listenUrl": "https://freetyst.nf.migu.cn/public%2Fpublicsource6th%2Fpublicsource27%2F695433%2F2020%2F04%2F08%2F11%2F202004081133%2F69543309776%2F69543309776.mp3",
+        "lyricLrc": null,
+        "mvCopyrightId": null,
+        "picL": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/l_fQfFIakBWCqyQqHV.jpg",
+        "picM": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/m_67VxHnIFgG4n3UIl.jpg",
+        "picS": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/s_wzPibes140ysXBfo.jpg",
+        "qq": {
+          "copyrihtId": "600547041382",
+          "invalidateDate": "2022-11-30",
+          "productId": "600913000008965596",
+          "resourceIdList": [
+            "020023"
+          ],
+          "validateDate": "2020-04-08"
+        },
+        "relationTitle": null,
+        "rt": null,
+        "singerId": [
+          "112"
+        ],
+        "singerName": [
+          "周杰伦"
+        ],
+        "songDesc": null,
+        "songId": "1131254549",
+        "songName": "床边故事(专辑版)(3D Audio)",
+        "unuseFlag": null
+      },
+      {
+        "auditions": null,
+        "auditionsFlag": null,
+        "copyrightId": "60054704137",
+        "cr": {
+          "copyrihtId": "600547041370",
+          "invalidateDate": "2022-11-30",
+          "productId": "600913000008966111",
+          "resourceIdList": [],
+          "validateDate": null
+        },
+        "customizedPicUrl": null,
+        "fanyiLrc": null,
+        "has24Bitqq": null,
+        "has3Dqq": "1",
+        "hasHQqq": null,
+        "hasMv": null,
+        "hasSQqq": null,
+        "isHdCrbt": "1",
+        "lift": null,
+        "lisCr": "https://freetyst.nf.migu.cn/public%2Fproduct8th%2Fproduct39%2F2020%2F04%2F0816%2F2020%E5%B9%B404%E6%9C%8808%E6%97%A511%E7%82%B949%E5%88%86%E7%B4%A7%E6%80%A5%E5%86%85%E5%AE%B9%E5%87%86%E5%85%A5%E7%BA%B5%E6%A8%AA%E4%B8%96%E4%BB%A34%E9%A6%96%2F%E5%BD%A9%E9%93%83%2F6_mp3-128kbps%2F60054704137165050.mp3",
+        "lisQq": null,
+        "listenUrl": "https://freetyst.nf.migu.cn/public%2Fpublicsource6th%2Fpublicsource27%2F695433%2F2020%2F04%2F08%2F11%2F202004081134%2F69543309778%2F69543309778.mp3",
+        "lyricLrc": null,
+        "mvCopyrightId": null,
+        "picL": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/l_fQfFIakBWCqyQqHV.jpg",
+        "picM": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/m_67VxHnIFgG4n3UIl.jpg",
+        "picS": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/s_wzPibes140ysXBfo.jpg",
+        "qq": {
+          "copyrihtId": "600547041372",
+          "invalidateDate": "2022-11-30",
+          "productId": "600913000008965592",
+          "resourceIdList": [
+            "020023"
+          ],
+          "validateDate": "2020-04-08"
+        },
+        "relationTitle": null,
+        "rt": null,
+        "singerId": [
+          "112"
+        ],
+        "singerName": [
+          "周杰伦"
+        ],
+        "songDesc": null,
+        "songId": "1131254547",
+        "songName": "告白气球(3D Audio)",
+        "unuseFlag": null
+      },
+      {
+        "auditions": null,
+        "auditionsFlag": null,
+        "copyrightId": "6005973Q5XT",
+        "cr": {
+          "copyrihtId": "6005973Q5XT0",
+          "invalidateDate": "2099-12-31",
+          "productId": "600913000008966107",
+          "resourceIdList": [],
+          "validateDate": null
+        },
+        "customizedPicUrl": null,
+        "fanyiLrc": null,
+        "has24Bitqq": null,
+        "has3Dqq": "1",
+        "hasHQqq": null,
+        "hasMv": null,
+        "hasSQqq": null,
+        "isHdCrbt": "1",
+        "lift": null,
+        "lisCr": "https://freetyst.nf.migu.cn/public%2Fproduct8th%2Fproduct39%2F2020%2F04%2F0816%2F2020%E5%B9%B404%E6%9C%8808%E6%97%A511%E7%82%B946%E5%88%86%E7%B4%A7%E6%80%A5%E5%86%85%E5%AE%B9%E5%87%86%E5%85%A5SONY1%E9%A6%96906141%2F%E5%BD%A9%E9%93%83%2F6_mp3-128kbps%2F6005973Q5XT164925.mp3",
+        "lisQq": null,
+        "listenUrl": "https://freetyst.nf.migu.cn/public%2Fpublicsource6th%2Fpublicsource27%2F695433%2F2020%2F04%2F08%2F11%2F202004081134%2F69543309780%2F69543309780.mp3",
+        "lyricLrc": null,
+        "mvCopyrightId": null,
+        "picL": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/l_fQfFIakBWCqyQqHV.jpg",
+        "picM": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/m_67VxHnIFgG4n3UIl.jpg",
+        "picS": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/s_wzPibes140ysXBfo.jpg",
+        "qq": {
+          "copyrihtId": "6005973Q5XT2",
+          "invalidateDate": "2099-12-31",
+          "productId": "600913000008965588",
+          "resourceIdList": [
+            "020023"
+          ],
+          "validateDate": "2020-04-08"
+        },
+        "relationTitle": null,
+        "rt": null,
+        "singerId": [
+          "112"
+        ],
+        "singerName": [
+          "周杰伦"
+        ],
+        "songDesc": null,
+        "songId": "1131254545",
+        "songName": "东风破(3D Audio)",
+        "unuseFlag": null
+      },
+      {
+        "auditions": {
+          "lisBq": null,
+          "lisBqSize": null,
+          "lisHQ": null,
+          "lisHQSize": null,
+          "lisSQ": null,
+          "lisSQSize": null
+        },
+        "auditionsFlag": "7",
+        "copyrightId": "6005973LYVP",
+        "cr": {
+          "copyrihtId": "6005973LYVP0",
+          "invalidateDate": "2099-12-31",
+          "productId": "600913000008584652",
+          "resourceIdList": [],
+          "validateDate": null
+        },
+        "customizedPicUrl": null,
+        "fanyiLrc": null,
+        "has24Bitqq": null,
+        "has3Dqq": "1",
+        "hasHQqq": null,
+        "hasMv": null,
+        "hasSQqq": null,
+        "isHdCrbt": "1",
+        "lift": null,
+        "lisCr": "https://freetyst.nf.migu.cn/public%2Fproduct8th%2Fproduct38%2F2020%2F02%2F2714%2F2020%E5%B9%B402%E6%9C%8826%E6%97%A511%E7%82%B956%E5%88%86%E7%B4%A7%E6%80%A5%E5%86%85%E5%AE%B9%E5%87%86%E5%85%A5SONY10%E9%A6%96801566%2F%E5%BD%A9%E9%93%83%2F6_mp3-128kbps%2F6005973LYVP.mp3",
+        "lisQq": null,
+        "listenUrl": "https://freetyst.nf.migu.cn/public%2Fpublicsource6th%2Fpublicsource25%2F695433%2F2020%2F02%2F25%2F21%2F202002252139%2F69543309431%2F69543309431.mp3",
+        "lyricLrc": null,
+        "mvCopyrightId": null,
+        "picL": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/l_fQfFIakBWCqyQqHV.jpg",
+        "picM": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/m_67VxHnIFgG4n3UIl.jpg",
+        "picS": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/s_wzPibes140ysXBfo.jpg",
+        "qq": {
+          "copyrihtId": "6005973LYVP2",
+          "invalidateDate": "2099-12-31",
+          "productId": "600913000008583119",
+          "resourceIdList": [
+            "020023"
+          ],
+          "validateDate": "2020-02-26"
+        },
+        "relationTitle": null,
+        "rt": null,
+        "singerId": [
+          "112"
+        ],
+        "singerName": [
+          "周杰伦"
+        ],
+        "songDesc": null,
+        "songId": "1130144135",
+        "songName": "简单爱 (3D Audio)",
+        "unuseFlag": null
+      },
+      {
+        "auditions": null,
+        "auditionsFlag": null,
+        "copyrightId": "60054704123",
+        "cr": {
+          "copyrihtId": "600547041230",
+          "invalidateDate": "2022-11-30",
+          "productId": "600913000008623591",
+          "resourceIdList": [],
+          "validateDate": null
+        },
+        "customizedPicUrl": null,
+        "fanyiLrc": null,
+        "has24Bitqq": null,
+        "has3Dqq": "1",
+        "hasHQqq": null,
+        "hasMv": null,
+        "hasSQqq": null,
+        "isHdCrbt": "1",
+        "lift": null,
+        "lisCr": "https://freetyst.nf.migu.cn/public%2Fproduct8th%2Fproduct38%2F2020%2F03%2F0409%2F2020%E5%B9%B403%E6%9C%8803%E6%97%A520%E7%82%B935%E5%88%86%E7%B4%A7%E6%80%A5%E5%86%85%E5%AE%B9%E5%87%86%E5%85%A5%E7%BA%B5%E6%A8%AA%E4%B8%96%E4%BB%A313%E9%A6%96%2F%E5%BD%A9%E9%93%83%2F6_mp3-128kbps%2F60054704123.mp3",
+        "lisQq": null,
+        "listenUrl": "https://freetyst.nf.migu.cn/public%2Fpublicsource6th%2Fpublicsource25%2F695433%2F2020%2F02%2F25%2F21%2F202002252140%2F69543309489%2F69543309489.mp3",
+        "lyricLrc": null,
+        "mvCopyrightId": null,
+        "picL": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/l_fQfFIakBWCqyQqHV.jpg",
+        "picM": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/m_67VxHnIFgG4n3UIl.jpg",
+        "picS": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/s_wzPibes140ysXBfo.jpg",
+        "qq": {
+          "copyrihtId": "600547041232",
+          "invalidateDate": "2022-11-30",
+          "productId": "600913000008620967",
+          "resourceIdList": [
+            "020023"
+          ],
+          "validateDate": "2020-03-03"
+        },
+        "relationTitle": null,
+        "rt": null,
+        "singerId": [
+          "112"
+        ],
+        "singerName": [
+          "周杰伦"
+        ],
+        "songDesc": null,
+        "songId": "1130129244",
+        "songName": "半岛铁盒(3D Audio)",
+        "unuseFlag": null
+      },
+      {
+        "auditions": null,
+        "auditionsFlag": null,
+        "copyrightId": "60054704124",
+        "cr": null,
+        "customizedPicUrl": null,
+        "fanyiLrc": null,
+        "has24Bitqq": null,
+        "has3Dqq": "1",
+        "hasHQqq": null,
+        "hasMv": null,
+        "hasSQqq": null,
+        "isHdCrbt": null,
+        "lift": null,
+        "lisCr": null,
+        "lisQq": null,
+        "listenUrl": "https://freetyst.nf.migu.cn/public%2Fproduct9th%2Fproduct42%2F2020%2F12%2F0317%2F2020%E5%B9%B403%E6%9C%8803%E6%97%A520%E7%82%B935%E5%88%86%E7%B4%A7%E6%80%A5%E5%86%85%E5%AE%B9%E5%87%86%E5%85%A5%E7%BA%B5%E6%A8%AA%E4%B8%96%E4%BB%A313%E9%A6%96%2F%E5%85%A8%E6%9B%B2%E8%AF%95%E5%90%AC%2FMp3_64_22_16%2F60054704124174903.mp3",
+        "lyricLrc": null,
+        "mvCopyrightId": null,
+        "picL": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/l_fQfFIakBWCqyQqHV.jpg",
+        "picM": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/m_67VxHnIFgG4n3UIl.jpg",
+        "picS": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/s_wzPibes140ysXBfo.jpg",
+        "qq": {
+          "copyrihtId": "600547041242",
+          "invalidateDate": "2022-11-30",
+          "productId": "600913000008628946",
+          "resourceIdList": [
+            "020023"
+          ],
+          "validateDate": "2020-03-04"
+        },
+        "relationTitle": null,
+        "rt": null,
+        "singerId": [
+          "112"
+        ],
+        "singerName": [
+          "周杰伦"
+        ],
+        "songDesc": null,
+        "songId": "1130129243",
+        "songName": "开不了口(3D Audio)",
+        "unuseFlag": null
+      },
+      {
+        "auditions": null,
+        "auditionsFlag": null,
+        "copyrightId": "60054704127",
+        "cr": {
+          "copyrihtId": "600547041270",
+          "invalidateDate": "2022-11-30",
+          "productId": "600913000008623597",
+          "resourceIdList": [],
+          "validateDate": null
+        },
+        "customizedPicUrl": null,
+        "fanyiLrc": null,
+        "has24Bitqq": null,
+        "has3Dqq": "1",
+        "hasHQqq": null,
+        "hasMv": null,
+        "hasSQqq": null,
+        "isHdCrbt": "1",
+        "lift": null,
+        "lisCr": "https://freetyst.nf.migu.cn/public%2Fproduct8th%2Fproduct38%2F2020%2F03%2F0409%2F2020%E5%B9%B403%E6%9C%8803%E6%97%A520%E7%82%B935%E5%88%86%E7%B4%A7%E6%80%A5%E5%86%85%E5%AE%B9%E5%87%86%E5%85%A5%E7%BA%B5%E6%A8%AA%E4%B8%96%E4%BB%A313%E9%A6%96%2F%E5%BD%A9%E9%93%83%2F6_mp3-128kbps%2F60054704127.mp3",
+        "lisQq": null,
+        "listenUrl": "https://freetyst.nf.migu.cn/public%2Fpublicsource6th%2Fpublicsource25%2F695433%2F2020%2F02%2F25%2F21%2F202002252139%2F69543309454%2F69543309454.mp3",
+        "lyricLrc": null,
+        "mvCopyrightId": null,
+        "picL": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/l_fQfFIakBWCqyQqHV.jpg",
+        "picM": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/m_67VxHnIFgG4n3UIl.jpg",
+        "picS": "https://mcontent.migu.cn/newlv2/new/artist/20200611/112/s_wzPibes140ysXBfo.jpg",
+        "qq": {
+          "copyrihtId": "600547041272",
+          "invalidateDate": "2022-11-30",
+          "productId": "600913000008620973",
+          "resourceIdList": [
+            "020023"
+          ],
+          "validateDate": "2020-03-03"
+        },
+        "relationTitle": null,
+        "rt": null,
+        "singerId": [
+          "112"
+        ],
+        "singerName": [
+          "周杰伦"
+        ],
+        "songDesc": null,
+        "songId": "1130129240",
+        "songName": "稻香(3D Audio)",
+        "unuseFlag": null
+      }
+    ],
+    "totalCount": 0
+  }
+}
