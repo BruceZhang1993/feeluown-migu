@@ -7,6 +7,20 @@ from fuo_migu.provider import provider
 from fuo_migu.schema import SearchType
 from fuo_migu.service import MiguService
 
+BITRATES = {
+    'lq': '64',
+    'sq': '128',
+    'hq': '320',
+    'shq': '2000'
+}
+
+FORMATS = {
+    'lq': '64kmp3',
+    'sq': '128kmp3',
+    'hq': '320kmp3',
+    'shq': '2000kflac'
+}
+
 
 def create_g(func, identifier):
     data = func(identifier, page=1, page_size=30)
@@ -38,7 +52,8 @@ class MiguBaseModel(BaseModel):
 
 class MiguSongModel(SongModel, MiguBaseModel):
     class Meta:
-        fields = ['qualities', 'content_id']
+        fields = ['qualities', 'content_id', 'has_mv', 'cached_mv', 'mv_cpid']
+        fields_no_get = ['cached_mv']
         support_multi_quality = True
 
     @classmethod
@@ -52,8 +67,21 @@ class MiguSongModel(SongModel, MiguBaseModel):
     def get_media(self, quality):
         url = provider.api.get_song_media(self.identifier, self.content_id, quality)
         return Media(url,
-                     format='2000kflac' if quality == 'shq' else '320kmp3',
-                     bitrate='2000' if quality == 'shq' else '320')
+                     format=FORMATS.get(quality),
+                     bitrate=BITRATES.get(quality))
+
+    @property
+    def mv(self):
+        if not self.has_mv:
+            return None
+        if self.cached_mv is None:
+            result = provider.api.mv_detail(self.mv_cpid)
+            self.cached_mv = result.data.model() if result.data is not None else None
+        return self.cached_mv
+
+    @mv.setter
+    def mv(self, _):
+        pass
 
 
 class MiguArtistModel(ArtistModel, MiguBaseModel):
@@ -91,7 +119,8 @@ class MiguSearchModel(SearchModel, MiguBaseModel):
 
 
 class MiguMvModel(MvModel, MiguBaseModel):
-    pass
+    class Meta:
+        fields_no_get = ['cover', 'artist']
 
 
 class MiguVideoModel(VideoModel, MiguBaseModel):

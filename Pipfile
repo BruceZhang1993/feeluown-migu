@@ -5,11 +5,11 @@ name = "doubanpypi"
 
 [packages]
 feeluown = '*'
-PyQt5 = '*'
 qasync = '*'
 requests = '*'
 pydantic = '*'
 fuo-migu = {editable = true, path = "."}
+pyqt5 = "*"
 dbus-python = "*"
 
 [dev-packages]

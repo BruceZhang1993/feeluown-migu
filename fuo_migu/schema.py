@@ -168,12 +168,16 @@ class SongDetail(BaseSchema):
         artists = [migu_models.ArtistModel(identifier=id_, name=name) for id_, name in
                    zip(self.singer_id, self.singer_name)]
         qualities = []
-        if self.has_hq:
-            qualities.append('hq')
         if self.has_sq:
             qualities.append('shq')
+        if self.has_hq:
+            qualities.append('hq')
+        qualities.append('sq')
+        qualities.append('lq')
         return migu_models.MiguSongModel(identifier=self.copyright_id, artists=artists, title=self.song_name,
-                                         url=self.listen_url, mv=None, qualities=qualities, content_id=self.content_id,
+                                         mv_cpid=self.mv_copyright_id,
+                                         url=self.listen_url, has_mv=self.has_mv or False, qualities=qualities,
+                                         content_id=self.content_id,
                                          lyric=migu_models.MiguLyricModel(identifier=self.copyright_id,
                                                                           content=self.lyric_lrc,
                                                                           trans_content=self.fanyi_lrc))
@@ -231,6 +235,35 @@ class AlbumDetail(BaseSchema):
     def model(self):
         return migu_models.MiguAlbumModel(identifier=self.album_id, name=self.album_name, cover=self.local_album_pic_m,
                                           desc=self.album_intro or '')
+
+
+class MvDetail(BaseSchema):
+    class MvSchema(BaseSchema):
+        class MvKv(BaseSchema):
+            key: Optional[str]
+            value: Optional[str]
+
+        entry: Optional[List[MvKv]]
+
+    copyright_id: Optional[str] = Field(alias='copyrightId')
+    content_name: Optional[str] = Field(alias='contentName')
+    actor_name: Optional[str] = Field(alias='actorName')
+    videos: Optional[MvSchema] = Field(alias='videoUrlMap')
+
+    @property
+    def url(self):
+        if self.videos and self.videos.entry:
+            for kv in self.videos.entry:
+                if kv.value:
+                    return kv.value
+        return None
+
+    def model(self):
+        url = self.url
+        if url is None:
+            return None
+        return migu_models.MiguMvModel(identifier=self.copyright_id, name=self.content_name, desc=self.actor_name,
+                                       media=migu_models.Media(url))
 
 
 class PlaylistTag(BaseSchema):
@@ -325,6 +358,10 @@ class PlaylistSongsResult(BaseSchema):
 
 class AlbumDetailResult(BaseSchema):
     data: Optional[AlbumDetail]
+
+
+class MvDetailResult(BaseSchema):
+    data: Optional[MvDetail]
 
 
 class PlaylistDetailResult(BaseSchema):

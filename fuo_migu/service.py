@@ -121,17 +121,31 @@ class MiguService(metaclass=Singleton):
                 raise MiguException(f'Error: HTTP {r.status_code}')
             return PlaylistSongsResult.parse_raw(r.content)
 
+    def mv_detail(self, cpid: str) -> Optional['MvDetailResult']:
+        uri = 'https://m.music.migu.cn/migu/remoting/mv_detail_tag'
+        params = {'cpid': cpid, 'n': 3}
+        with self.session.get(uri, params=params) as r:
+            if r.status_code != 200:
+                raise MiguException(f'Error: HTTP {r.status_code}')
+            return MvDetailResult.parse_raw(r.content)
+
     def get_song_media(self, cpid: str, content_id: str, quality: str = 'hq'):
+        tone_flags = {
+            'lq': 'LQ',
+            'sq': 'PQ',
+            'hq': 'HQ',
+            'shq': 'SQ'
+        }
         uri = 'http://app.pd.nf.migu.cn/MIGUM2.0/v1.0/content/sub/listenSong.do'
         params = {
-            'toneFlag': 'SQ' if quality == 'shq' else 'HQ',
+            'toneFlag': tone_flags.get(quality, ''),
             'netType': '00',
             'userId': '15548614588710179085069',
             'ua': 'Android_migu',
             'version': '5.1',
             'copyrightId': cpid,
             'contentId': content_id,
-            'resourceType': '2' if quality == 'shq' else 'E',
+            'resourceType': '2',
             'channel': '0'
         }
         with self.session.head(uri, params=params) as r:
@@ -145,7 +159,7 @@ class MiguService(metaclass=Singleton):
 
 from fuo_migu.schema import get_result_by_stype, SongSearchResult, ArtistSearchResult, AlbumSearchResult, \
     PlaylistSearchResult, MvSearchResult, SongDetailResult, ArtistDetailResult, ArtistSongsResult, AlbumDetailResult, \
-    PlaylistDetailResult, PlaylistSongsResult, AlbumSongsResult, SearchType
+    PlaylistDetailResult, PlaylistSongsResult, AlbumSongsResult, SearchType, MvDetailResult
 
 if __name__ == '__main__':
-    print(MiguService())
+    print(MiguService().mv_detail('600570YA7ZS'))
