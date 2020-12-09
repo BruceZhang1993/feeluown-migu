@@ -7,6 +7,7 @@ from fuo_migu.provider import provider
 from fuo_migu.schema import SearchType
 from fuo_migu.service import MiguService
 
+
 BITRATES = {
     'lq': '64',
     'sq': '128',
